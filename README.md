@@ -136,4 +136,8 @@ Learning Outcomes
 
 # Step 3: Real-Time Timer (Advanced)
 
-In this step, we’ll introduce a loop that checks the current time against the schedule in real-time.
+Replace `currentTime` with the system time from the datetime module
+
+# Step 4: Live Loop (checking every minute)
+
+convert the program into a main loop that runs every minute. Play this starting the program will cause a loop to begin. It will run once on start up and then wait for a minute a pass. 
